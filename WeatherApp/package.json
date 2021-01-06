@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-hooks": "^1.10.0",
     "expo-font": "^8.1.1",
     "native-base": "^2.13.12",
