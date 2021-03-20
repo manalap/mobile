@@ -1,2 +1,2 @@
 # mobile
-React native
+Android, JavaScript, ReactNative, React.
